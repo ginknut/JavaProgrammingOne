@@ -13,7 +13,6 @@ public class C1_8 {
      *
      * @param args arguments from command line prompt
      */
-    
     public static void main(String[] args) {
         System.out.println(2 * 5.5 * 3.14); //Displays Perimeter
         System.out.println(5.5 * 5.5 * 3.14); //Displays Area
