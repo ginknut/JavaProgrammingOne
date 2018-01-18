@@ -12,7 +12,6 @@ public class C1_1 {
      *
      * @param args arguments from command line prompt
      */
-    
     public static void main(String[] args) {
         System.out.println("Welcome to Java!"); // Displays "Welcome to Java!"
         System.out.println("Welcome to Computer Science!"); // Displays "Welcome to Computer Science!"

@@ -9,7 +9,6 @@ import java.util.Scanner;
  *
  * @author Eli Richardson
  */
-
 public class C3_14 {
 
     /**
@@ -17,7 +16,6 @@ public class C3_14 {
      *
      * @param args arguments from command line prompt
      */
-    
     public static void main(String[] args) {
 
         int number1 = (int) (Math.random() * 2);

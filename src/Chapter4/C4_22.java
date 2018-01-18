@@ -3,12 +3,11 @@ package Chapter4;
 import java.util.Scanner;
 
 /**
- * The program asks the user to enter two strings, if see if the second string is the
- * substring of string 1 or not.
+ * The program asks the user to enter two strings, if see if the second string
+ * is the substring of string 1 or not.
  *
  * @author Eli Richardson
  */
-
 public class C4_22 {
 
     /**
@@ -16,7 +15,6 @@ public class C4_22 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -3,14 +3,13 @@ package Chapter4;
 import java.util.Scanner;
 
 /**
- * The program asks for information from bidder's 1 and 2 (like name, hours of work, and 
- * charge per hour). Then the program checks which one has the least bid depending on 
- * the hours and rate given or the least hours and chooses a winner. if both are equal
- * no one wins.
- * 
+ * The program asks for information from bidder's 1 and 2 (like name, hours of
+ * work, and charge per hour). Then the program checks which one has the least
+ * bid depending on the hours and rate given or the least hours and chooses a
+ * winner. if both are equal no one wins.
+ *
  * @author Eli Richardson
  */
-
 public class P4 {
 
     /**

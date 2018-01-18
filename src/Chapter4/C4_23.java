@@ -3,14 +3,14 @@ package Chapter4;
 import java.util.Scanner;
 
 /**
- * The program asks the name if the employee, how many hours they worked, and their hourly
- * pay. Then it will ask what is the federal tax withholding rate and the state tax 
- * withholding rate. It will calculate all of those numbers and print out the name, hours
- * worked, hourly pay, gross pay, total deductions, tax withholdings, and the net pay.
+ * The program asks the name if the employee, how many hours they worked, and
+ * their hourly pay. Then it will ask what is the federal tax withholding rate
+ * and the state tax withholding rate. It will calculate all of those numbers
+ * and print out the name, hours worked, hourly pay, gross pay, total
+ * deductions, tax withholdings, and the net pay.
  *
  * @author Eli Richardson
  */
-
 public class C4_23 {
 
     /**
@@ -18,7 +18,6 @@ public class C4_23 {
      *
      * @param args arguments from command line prompt
      */
-    
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

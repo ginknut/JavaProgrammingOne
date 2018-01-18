@@ -3,12 +3,12 @@ package Chapter4;
 import java.util.Scanner;
 
 /**
- * The program asks for two characters, a letter (m, c, or i) and a number (1, 2, 3, or 4).
- * It reads the characters and provides the major a student is working on and their grade.
+ * The program asks for two characters, a letter (m, c, or i) and a number (1,
+ * 2, 3, or 4). It reads the characters and provides the major a student is
+ * working on and their grade.
  *
  * @author Eli Richardson
  */
-
 public class C4_18 {
 
     /**
@@ -16,7 +16,6 @@ public class C4_18 {
      *
      * @param args arguments from command line prompt
      */
-    
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

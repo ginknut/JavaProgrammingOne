@@ -3,12 +3,11 @@ package Chapter3;
 import java.util.Scanner;
 
 /**
- * Asks user for the weight and price of package 1 and 2 
- * then calculates which one has a better weight to price ratio
+ * Asks user for the weight and price of package 1 and 2 then calculates which
+ * one has a better weight to price ratio
  *
  * @author Eli Richardson
  */
-
 public class C3_33 {
 
     /**
@@ -16,7 +15,6 @@ public class C3_33 {
      *
      * @param args arguments from command line prompt
      */
-    
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
