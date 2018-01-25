@@ -9,13 +9,12 @@ import java.util.*;
  * @author Eli Richardson
  */
 public class P8 {
-    
+
     /**
      * Main Method
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String more = "";
@@ -54,17 +53,16 @@ public class P8 {
         }
 
     }
-    
+
     /**
      * Method that puts the inputs into the correct array
-     * 
-     * @param arRAY
-     * @param identify
-     * @param day
-     * @param amount
-     * @return 
+     *
+     * @param arRAY array of 4 rows and five columns
+     * @param identify ID of employee
+     * @param day day that employee worked
+     * @param amount amount of sales for that day
+     * @return
      */
-
     public static double id(double arRAY[][], String identify, String day, double amount) {
 
         int i = 0;

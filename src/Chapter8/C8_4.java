@@ -39,8 +39,8 @@ public class C8_4 {
     /**
      * Method that finds the sum of the workers hours.
      *
-     * @param employees
-     * @param r
+     * @param employees name of array
+     * @param r number of rows in the table array
      * @return
      */
     public static int sum(int employees[][], int r) {

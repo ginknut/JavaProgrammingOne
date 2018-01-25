@@ -44,8 +44,8 @@ public class C7_1 {
      * Method used to assign the the letters 'A' - 'F' to numbers depending on
      * the highest score.
      *
-     * @param numbers
-     * @param best
+     * @param numbers array input
+     * @param best the highest grade
      * @return
      */
     public static char grade(int numbers, int best) {
