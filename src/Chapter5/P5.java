@@ -8,7 +8,6 @@ import java.util.Scanner;
  *
  * @author Eli Richardson
  */
-
 public class P5 {
 
     /**
