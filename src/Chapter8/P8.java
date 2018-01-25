@@ -61,7 +61,7 @@ public class P8 {
      * @param identify ID of employee
      * @param day day that employee worked
      * @param amount amount of sales for that day
-     * @return
+     * @return total sale for the day
      */
     public static double id(double arRAY[][], String identify, String day, double amount) {
 

@@ -46,7 +46,7 @@ public class C7_1 {
      *
      * @param numbers array input
      * @param best the highest grade
-     * @return
+     * @return the letter grade in comparison to the highest score
      */
     public static char grade(int numbers, int best) {
 

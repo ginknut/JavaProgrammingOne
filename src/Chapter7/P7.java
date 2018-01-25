@@ -53,7 +53,7 @@ public class P7 {
      *
      * @param numbers array that the input is put into
      * @param size how many numbers are in the array
-     * @return
+     * @return the average
      */
     public static double average(int numbers[], double size) {
 
