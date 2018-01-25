@@ -37,8 +37,8 @@ public class P7 {
     /**
      * Method that puts the inputs into an array
      *
-     * @param numbers
-     * @param size
+     * @param numbers array that the input is put into
+     * @param size how many numbers are in the array
      */
     public static void input(int numbers[], int size) {
         Scanner input = new Scanner(System.in);
@@ -51,9 +51,9 @@ public class P7 {
     /**
      * Method that finds the average of the inputs
      *
-     * @param numbers
-     * @param size
-     * @return
+     * @param numbers array that the input is put into
+     * @param size how many numbers are in the array
+     * @return the average
      */
     public static double average(int numbers[], double size) {
 

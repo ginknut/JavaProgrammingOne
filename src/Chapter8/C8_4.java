@@ -4,7 +4,7 @@ package Chapter8;
  * Prints the number of employees how many numbers they've worked. Then the
  * hours are summed up and printed
  *
- * @author er1001800
+ * @author Eli Richardson
  */
 public class C8_4 {
 
@@ -39,9 +39,9 @@ public class C8_4 {
     /**
      * Method that finds the sum of the workers hours.
      *
-     * @param employees
-     * @param r
-     * @return
+     * @param employees name of array
+     * @param r number of rows in the table array
+     * @return total hours worked
      */
     public static int sum(int employees[][], int r) {
         int t = 0;
